@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@authenio/samlify-xsd-schema-validator": "^1.0.2",
-    "angular": "^1.6.2",
+    "angular": "^1.8.0",
     "angular-route": "^1.6.2",
     "body-parser": "^1.17.1",
     "cookie-encryption": "^1.6.0",
